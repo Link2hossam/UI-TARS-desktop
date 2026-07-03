@@ -11,3 +11,7 @@ packages:
   - 'websites/*'
   # omni-tars agent
   - 'omni-tars/*'
+overrides:
+  form-data@<=4.0.4: 4.0.4
+  axios@<=1.16.0: 1.16.0
+  basic-ftp@<=5.2.2: 5.2.2
